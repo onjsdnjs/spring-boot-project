@@ -1,0 +1,7 @@
+/target/
+/silverstring-web/target/
+/silverstring-admin/target/
+/silverstring-domain/target/
+/silverstring-core/target/
+/silverstring-bot/target/
+/.settings/
